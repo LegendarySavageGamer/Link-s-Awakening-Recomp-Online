@@ -1,3 +1,4 @@
+<img width="1280" height="640" alt="Links_Awakening_GitHub_Social_Preview_1280x640" src="https://github.com/user-attachments/assets/679f0cc0-e95b-43d9-8d5c-8f475b700dde" />
 # The Legend of Zelda: Link's Awakening — Recomp Online
 
 ### A fan-made online co-op project by ThyHeroOfTime
