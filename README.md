@@ -4,7 +4,7 @@
 
 **Project Maintainer:** ThyHeroOfTime  
 **Project:** LAS Recomp Online  
-**Current Release:** V15.2  
+**Current Release:** V15.3  
 **Status:** Community-Driven Development
 
 ## About This Project
